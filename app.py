@@ -166,7 +166,7 @@ class calculator:
         imgCanvas = PIL.Image.fromarray(imgCanvas)
 
         # Configures the genai Library
-        genai.configure(api_key=os.environ['AIzaSyDcP5qfMzdp-UQO5OasGRKilD0E0zNVC5g'])
+        genai.configure(api_key=os.environ['YOUR GOOGLE API'])
 
         # Initializes a Flash Generative Model
         model = genai.GenerativeModel(model_name='gemini-1.5-flash')
