@@ -1,4 +1,4 @@
-##AI Calculator Using Computer Vision and GenAI##
+@AI Calculator Using Computer Vision and GenAI
 Description
 This project creates a gesture-controlled virtual calculator, allowing users to perform basic arithmetic and trigonometric calculations using hand gestures instead of a traditional keyboard or mouse. Users can wave their hands in front of a camera to recognize specific gestures linked to mathematical operations. For trigonometric functions, users can draw shapes (like triangles, squares, circles) to perform operations such as sine, cosine, and tangent calculations based on the shapes they create. An AI component interprets the shapes and executes the corresponding trigonometric operations.
 
